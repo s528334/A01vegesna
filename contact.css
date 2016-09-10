@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:black;
+}
+form
+{
+    color:yellowgreen;
+}
+body
+{
+background-image:url(http://livewallpaper.info/wp-content/uploads/2015/12/flower-background-hd-1366x768-8.jpg);
+font-size:20px;
+}
+h1
+{
+color:lightcoral;
+}
+h2{
+    color:lightseagreen;
+}
+button
+{
+font-size:15px;
+}
